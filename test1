@@ -1,1 +1,29 @@
-is this working? 
+#0001Lab MD Github
+#Lab Test Build 
+
+### Scenario
+ MD file testing markdown
+ 
+ ### Objectives
+ 
+Plug it N' Chug it 
+
+===
+
+# Exercise 1
+
+### Objectives 
+Basic MD build
+
+---
+## Task 1 General
+
+1. [] General  initial step. 
+1. [] Codelock check:
+  
+    ```-CMD
+    ipconfig
+    ```
+    
+ 1. [] Image format test:
+  ^1IMAGE 
