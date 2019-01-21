@@ -4,9 +4,9 @@
 ### Scenario
  MD file testing markdown
  
- ### Objectives
+### Objectives
  
-Plug it N' Chug it 
+Test
 
 ===
 
@@ -24,8 +24,5 @@ Basic MD build
     ```-CMD
     ipconfig
     ```
-    
- 1. [] Image format test:
-  !IMAGE[Tea](https://1drv.ms/u/s!ApHadmzF3IJ9qE0hj22q5F0hg35S)
 
 1. []  Commit sync test
