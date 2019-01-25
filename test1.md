@@ -26,3 +26,5 @@ Basic MD build
     ```
 
 1. []  Commit sync test
+
+1. [] update sync
