@@ -18,3 +18,6 @@ rtpr = float(rate)
 p = computepay(hr,rtpr)
 print(p)
 
+
+
+Am I grabbing everything in this commit?
