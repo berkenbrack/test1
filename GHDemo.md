@@ -1,6 +1,6 @@
 ##Task 2 Example
 
-    >[!note] Example
+    > Example
 
 1. test
 
@@ -8,5 +8,5 @@
 
 1. test
 
-    >[!note] working
+    > working
 1. test 
